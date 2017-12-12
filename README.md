@@ -1,1 +1,1 @@
-# http://site.ru IP blocklist
+# hxxp://site.ru IP blocklist
